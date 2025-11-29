@@ -1,0 +1,6 @@
+Stratégie,Accuracy Finale (%),Exemples Finaux,Exemples pour 90%,Itération 90%,Gain vs Random (%)
+Random,93.21,860,380,5,0.0%
+Least Confidence,95.89,860,300,1,21.1%
+Margin Sampling,95.89,860,300,1,21.1%
+Entropy,94.20,860,300,1,21.1%
+QBC,95.62,860,300,1,21.1%
